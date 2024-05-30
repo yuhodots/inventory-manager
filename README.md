@@ -1,1 +1,1 @@
-# inventory-manger
+# inventory-manager
